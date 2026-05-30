@@ -114,8 +114,8 @@ public:
 
 <div align="center">
 
-[![ConectividadeESP32](https://github-readme-stats-psi-smoky-68.vercel.app/api?username=professorThiago&repo=ConectividadeESP32&theme=radical&hide_border=true)](https://github.com/professorThiago/ConectividadeESP32)
-[![DebugManager](https://github-readme-stats-psi-smoky-68.vercel.app/api?username=professorThiago&repo=ConectividadeESP32&theme=radical&hide_border=true)](https://github.com/professorThiago/DebugManager)
+[![ConectividadeESP32](hhttps://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=professorThiago&repo=ConectividadeESP32&theme=radical&hide_border=true)](https://github.com/professorThiago/ConectividadeESP32)
+[![Botao](https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=professorThiago&repo=Botao&theme=radical&hide_border=true)](https://github.com/professorThiago/Botao)
 
 </div>
 
