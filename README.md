@@ -58,7 +58,7 @@ public:
 <i>❝ Os processos de transformação produzidos pela tecnologia são tanto mais compreendidos<br/>
 quanto maior a distância do tempo que nos permite observá-los. ❞</i>
 
-<br/><br/>
+<br/>
 
 <i style="color:#888">❝ The transformation processes produced by technology are better understood<br/>
 the greater the distance of time that allows us to observe them. ❞</i>
