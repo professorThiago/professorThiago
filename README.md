@@ -24,13 +24,13 @@
 class ProfessorThiago {
 public:
     String nome     = "Thiago Augusto de Oliveira";
-    String cargo    = "Instrutor SENAI — Rio Claro, SP";
-    String curso    = "Eletricista de Manutenção Industrial";
+    String cargo    = "Instrutor — SENAI São Caetano do Sul - Cyber e IA";
+    String curso    = "Desenvolvedor de Sistemas";
     String foco[]   = { "ESP32", "IoT", "Automação", "Embarcados" };
     String missao   = "Transformar hardware em bibliotecas que qualquer um entende";
 
-    void loop() {
-        enquanto (true) {
+    void main() {
+        while (true) {
             aprender();
             ensinar();
             construir();
