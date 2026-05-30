@@ -53,9 +53,7 @@ public:
 <tr>
 <td align="center" width="800">
 
-<img src="https://img.shields.io/badge/💬-Pensamento-F7A800?style=flat&labelColor=1a1a2e" />
-
-<br/><br/>
+<br/>
 
 <i>❝ Os processos de transformação produzidos pela tecnologia são tanto mais compreendidos<br/>
 quanto maior a distância do tempo que nos permite observá-los. ❞</i>
@@ -65,7 +63,7 @@ quanto maior a distância do tempo que nos permite observá-los. ❞</i>
 <i style="color:#888">❝ The transformation processes produced by technology are better understood<br/>
 the greater the distance of time that allows us to observe them. ❞</i>
 
-<br/><br/>
+<br/>
 
 <b>— Thiago Augusto de Oliveira</b>
 
