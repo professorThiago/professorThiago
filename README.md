@@ -45,15 +45,22 @@ public:
 
 <div align="center">
 
-> *"Os processos de transformação produzidos pela tecnologia são tanto mais compreendidos*
-> *quanto maior a distância do tempo que nos permite observá-los."*
->
-> *"The transformation processes produced by technology are better understood*
-> *the greater the distance of time that allows us to observe them."*
->
-> — **Thiago Augusto de Oliveira**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A800&height=3&width=600" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=16&pause=99999&color=F7A800&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22Os+processos+de+transforma%C3%A7%C3%A3o+produzidos+pela+tecnologia+s%C3%A3o+tanto+mais;compreendidos+quanto+maior+a+dist%C3%A2ncia+do+tempo+que+nos+permite+observ%C3%A1-los.%22" alt="Quote PT" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&weight=400&size=14&pause=99999&color=888888&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22The+transformation+processes+produced+by+technology+are+better+understood;the+greater+the+distance+of+time+that+allows+us+to+observe+them.%22" alt="Quote EN" />
+
+<br/>
+
+**— Thiago Augusto de Oliveira**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A800&height=3&width=600" />
 
 </div>
+
 
 ---
 
