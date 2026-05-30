@@ -87,8 +87,8 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=professorThiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorThiago&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=professorThiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="hhttps://github-readme-stats-psi-smoky-68.vercel.app/api?username=professorThiago&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -114,7 +114,7 @@ public:
 
 <div align="center">
 
-[![ConectividadeESP32](https://github-readme-stats.vercel.app/api/pin/?username=professorThiago&repo=ConectividadeESP32&theme=radical&hide_border=true)](https://github.com/professorThiago/ConectividadeESP32)
+[![ConectividadeESP32](https://github-readme-stats-psi-smoky-68.vercel.app/api?username=professorThiago&repo=ConectividadeESP32&theme=radical&hide_border=true)](https://github.com/professorThiago/ConectividadeESP32)
 [![DebugManager](https://github-readme-stats.vercel.app/api/pin/?username=professorThiago&repo=DebugManager&theme=radical&hide_border=true)](https://github.com/professorThiago/DebugManager)
 
 </div>
