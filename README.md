@@ -104,7 +104,7 @@ public:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=professorThiago&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-lilac-two.vercel.app/?username=professorThiago&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
