@@ -28,7 +28,7 @@ public:
     String nome     = "Thiago Augusto de Oliveira";
     String cargo    = "Instrutor — SENAI São Caetano do Sul - Cyber e IA";
     String cargo2    = "Professor de TI — Faculdade das Américas FAM";
-    String foco[]   = { "C++", "IoT", "Automação", "Embarcados", "IA", "Linux", "Cybersecurity" };
+    String foco[]   = { "C++", "IoT", "IA", "Linux", "Cybersecurity" };
     String missao   = "Transformar hardware em bibliotecas que qualquer um entende";
 
     void main() {
