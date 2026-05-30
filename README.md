@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com texto -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Instrutor+SENAI+%7C+Rio+Claro%2C+SP;ESP32+%2B+IoT+%2B+Automa%C3%A7%C3%A3o;Criando+bibliotecas+em+portugu%C3%AAs+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thiago+%F0%9F%90%BA;Professor+SENAI+%7C+FAM;IoT+%2B+IA+%2B+C%2B%2B+%2B+Python;Criando+bibliotecas+em+portugu%C3%AAs+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
@@ -25,8 +25,8 @@ class ProfessorThiago {
 public:
     String nome     = "Thiago Augusto de Oliveira";
     String cargo    = "Instrutor — SENAI São Caetano do Sul - Cyber e IA";
-    String curso    = "Desenvolvedor de Sistemas";
-    String foco[]   = { "ESP32", "IoT", "Automação", "Embarcados" };
+    String cargo2    = "Professor de TI — Faculdade das Américas FAM";
+    String foco[]   = { "C++", "IoT", "Automação", "Embarcados", "IA", "Linux", "Cybersecurity" };
     String missao   = "Transformar hardware em bibliotecas que qualquer um entende";
 
     void main() {
