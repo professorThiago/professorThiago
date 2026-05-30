@@ -148,6 +148,14 @@ abre uma **Issue** ou me chama no **LinkedIn**. Adoro trocar ideia sobre embarca
 
 <br/><br/>
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/professorThiago/professorThiago/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/professorThiago/professorThiago/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/professorThiago/professorThiago/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800&height=100&section=footer" />
 
 </div>
