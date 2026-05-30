@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍🏫 Sobre mim
+## 🧔 Sobre mim
 
 ```cpp
 class ProfessorThiago {
