@@ -40,13 +40,10 @@ public:
 };
 ```
 
-> *"O melhor código é aquele que o próximo consegue ler — de preferência em português."*
 
 ---
 
 <div align="center">
-
-### 💬 Pensamento
 
 > *"Os processos de transformação produzidos pela tecnologia são tanto mais compreendidos*
 > *quanto maior a distância do tempo que nos permite observá-los."*
