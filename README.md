@@ -44,6 +44,22 @@ public:
 
 ---
 
+<div align="center">
+
+### 💬 Pensamento
+
+> *"Os processos de transformação produzidos pela tecnologia são tanto mais compreendidos*
+> *quanto maior a distância do tempo que nos permite observá-los."*
+>
+> *"The transformation processes produced by technology are better understood*
+> *the greater the distance of time that allows us to observe them."*
+>
+> — **Thiago Augusto de Oliveira**
+
+</div>
+
+---
+
 ## 🔧 Stack & Ferramentas
 
 <div align="center">
