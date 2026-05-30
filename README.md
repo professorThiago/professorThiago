@@ -20,6 +20,8 @@
 
 ## 🧔 Sobre mim
 
+<img align="right" src="https://media2.giphy.com/media/SSirUu2TrV65ymCi4J/giphy.gif" width="180" />
+
 ```cpp
 class ProfessorThiago {
 public:
